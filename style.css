@@ -1,0 +1,32 @@
+body{
+    background-color:lightgray;
+    font-family: sans-serif;
+    border: 5px solid;
+    margin: 0px;
+    
+}
+
+nav{
+    background-color: white;
+    font-family: serif;
+    padding: 20px;
+    text-align: right;
+}
+
+span{
+    padding: 10px;
+}
+
+#profile{
+    background-color: aquamarine;
+    text-align: center
+}
+
+#content{
+    background: white;
+    
+}
+
+.container{
+    font-family: cursive;
+}
